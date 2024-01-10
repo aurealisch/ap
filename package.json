@@ -1,0 +1,15 @@
+{
+  "main": "target/index.js",
+  "scripts": {
+    "tsc": "tsc"
+  },
+  "dependencies": {
+    "@huggingface/inference": "^2.6.4",
+    "dotenv": "^16.3.1",
+    "grammy": "^1.20.3"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.8",
+    "typescript": "^5.3.3"
+  }
+}
